@@ -10,7 +10,7 @@ time:
   start: 2019-03-02 10:00:00 +0000
   end: 2019-03-02 18:00:00 +0000
 location: butterworth
-upcoming: true
+upcoming: false
 
 speakers:
   - julia-king
