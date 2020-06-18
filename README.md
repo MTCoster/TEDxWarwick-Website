@@ -1,6 +1,6 @@
-# TEDxWarwick's Website
+# TEDxWarwick's (Old) Website
 
-Currently hosted at: [www.tedxwarwick.com](https://www.tedxwarwick.com/)
+Currently hosted at: [tedxwarwick.mtcoster.net](https://tedxwarwick.mtcoster.net/)
 
 ## License
 
